@@ -74,4 +74,4 @@ window.onload = function() {
 
 generateButton.addEventListener("click", cardGenerator);
 
-const temporizador = setInterval(cardGenerator, 3000);
+const temporizador = setInterval(cardGenerator, 10000);
